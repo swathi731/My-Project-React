@@ -6,9 +6,9 @@ const Home = () => {
   const [searchTerm, setSearchTerm] = useState("");
 
   const categories = [
-    { name: "Fresh Vegetables", icon: "bi-carrot", image: "vegitabless.jpg", link: "/veg", btnClass: "btn-success" },
-    { name: "Milk & Dairy", icon: "bi-cup-straw", image: "milkdairy.png", link: "/milk", btnClass: "btn-warning" },
-    { name: "NonVeg Dishes", icon: "bi-egg-fried", image: "nonveg.avif", link: "/nonveg", btnClass: "btn-danger" },
+    { name: "Fresh Vegetables", icon: "bi-carrot", image: "Fresh Vegitables.jpeg", link: "/veg", btnClass: "btn-success" },
+    { name: "Milk & Dairy", icon: "bi-cup-straw", image: "Milk&Dairy.jpeg", link: "/milk", btnClass: "btn-warning" },
+    { name: "NonVeg Dishes", icon: "bi-egg-fried", image: "NonVeg Dishes.jpeg", link: "/nonveg", btnClass: "btn-danger" },
   ];
 
   // Filtering categories based on search term
