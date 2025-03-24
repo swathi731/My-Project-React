@@ -8,7 +8,7 @@ const Home = () => {
   const categories = [
     { name: "Fresh Vegetables", icon: "bi-carrot", image: "Fresh Vegitables.jpeg", link: "/veg", btnClass: "btn-success" },
     { name: "Milk & Dairy", icon: "bi-cup-straw", image: "Milk&Dairy.jpeg", link: "/milk", btnClass: "btn-warning" },
-    { name: "NonVeg Dishes", icon: "bi-egg-fried", image: "NonVeg Dishes.jpeg", link: "/nonveg", btnClass: "btn-danger" },
+    { name: "NonVeg Dishes", icon: "bi-egg-fried", image: "NonVeg DIshes.jpeg", link: "/nonveg", btnClass: "btn-danger" },
   ];
 
   // Filtering categories based on search term

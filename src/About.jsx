@@ -15,7 +15,7 @@ const About = () => {
       <div className="row mt-4 align-items-center">
         {/* About Image */}
         <div className="col-md-6 p-3 rounded border border-primary shadow bg-white">
-          <img src="groceries.webp" className="img-fluid rounded shadow-lg" alt="Grocery Store" />
+          <img src="Grocery.jpeg" className="img-fluid rounded shadow-lg" alt="Grocery Store" />
         </div>
 
         {/* About Text */}

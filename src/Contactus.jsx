@@ -19,11 +19,7 @@ const ContactUs = () => {
             <h4 className="text-center text-primary mb-3">
               <i className="bi bi-chat-dots"></i> Send us a Message
             </h4>
-            <img
-              src="https://source.unsplash.com/500x200/?customer-service"
-              className="img-fluid rounded mb-3"
-              alt="Customer Support"
-            />
+            
             <form>
               <div className="mb-3">
                 <label className="form-label">Full Name</label>
@@ -53,11 +49,7 @@ const ContactUs = () => {
             <h4 className="text-center mb-3">
               <i className="bi bi-info-circle"></i> Contact Information
             </h4>
-            <img
-              src="https://source.unsplash.com/500x200/?grocery-store"
-              className="img-fluid rounded mb-3"
-              alt="Store"
-            />
+            
             <ul className="list-group">
               <li className="list-group-item bg-dark text-light">
                 <i className="bi bi-geo-alt-fill text-danger"></i> 123 Grocery St, New York, USA

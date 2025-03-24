@@ -41,7 +41,7 @@ function Nonveg() {
 
     return (
         <div className="container mt-4">
-            <h2 className="text-center mb-4 text-danger fw-bold">Welcome To Nonveg Dishes</h2>
+            <h2 className="text-center mb-4 text-danger fw-bold">Welcome To Fresh NonVeg Items</h2>
 
             <div className="text-center mb-3">
                 <h5 className="fw-bold text-danger">
